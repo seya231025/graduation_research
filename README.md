@@ -36,7 +36,7 @@
 
 | 領域 | 主要技術 |
 | :--- | :--- |
-| **バックエンド** | Python 3.10+, FastAPI, Uvicorn, Pandas, Scikit-learn, OpenAI API |
+| **バックエンド** | Python 3.10+, FastAPI, Uvicorn, Pandas, Scikit-learn, Gemini API |
 | **フロントエンド**| Node.js 18+, TypeScript, React 18, Next.js 14, Three.js, D3.js |
 | **AR** | Unity 2022.3 (LTS), C#, XREAL SDK |
 | **その他** | Git, Docker (推奨) |
@@ -54,6 +54,20 @@
 
 ### 6. リポジトリのクローン
 
-```bash
-git clone [https://github.com/your-username/ar-knowledge-navigator.git](https://github.com/your-username/ar-knowledge-navigator.git)
-cd ar-knowledge-navigator
+### 7.開発手順
+
+【ステップ1】バックエンド：APIの基礎構築
+
+【ステップ2】フロントエンド：Web UIとバックエンドの接続
+
+【ステップ3】バックエンド：AI分析機能の実装
+
+【ステップ4】フロントエンド：分析結果の2D可視化
+
+【ステップ5】ARクライアント：基礎構築とバックエンドとの接続
+
+【ステップ6】ARクライアント：AR空間での3Dデータ可視化
+
+【ステップ7】リアルタイム通信：ARコラボレーション機能の実装
+
+【ステップ8】統合と仕上げ
